@@ -48,5 +48,5 @@
   <a href="https://scikit-learn.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="60" height="60"/> </a> </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=helper-uttam&show_icons=true&locale=en&layout=compact" alt="helper-uttam" /></p>
-<br> <br>
+&nbsp; &nbsp;
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=helper-uttam&show_icons=true&locale=en" alt="helper-uttam" /></p>
