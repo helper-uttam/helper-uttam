@@ -49,6 +49,13 @@
   <a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="60" height="60"/> </a> 
   <br><br><br> 
    </p>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=helper-uttam&show_icons=true&locale=en&layout=compact" alt="helper-uttam" /></p>
-&nbsp; &nbsp;
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=helper-uttam&show_icons=true&locale=en" alt="helper-uttam" /></p>
+<h3> 📈 GitHub Stats</h3>
+<br>
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=helper-uttam&show_icons=true&theme=radical" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=helper-uttam&theme=radical" />
+</p>
+  
+<br></br>
+[![Uttam's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=helper-uttam&theme=redical&hide_border=true)](https://git.io/helper-uttam)
+<br></br>
