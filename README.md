@@ -18,15 +18,14 @@
 - 📄 Know about my experiences [https://drive.google.com/file/d/1stl6ZH34CGurmiiuy7vJI73QR5AdhIEX/view?usp=sharing](https://drive.google.com/file/d/1stl6ZH34CGurmiiuy7vJI73QR5AdhIEX/view?usp=sharing)
 <br>
 <h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/uttamku74410059" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="uttamku74410059" height="30" width="40" /></a> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
-<a href="https://linkedin.com/in/uttam kumar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="uttam kumar" height="30" width="40" /></a> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
-<a href="https://stackoverflow.com/users/15806697" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="15806697" height="30" width="40" /></a> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
-<a href="https://www.facebook.com/ut.tam.3511041/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="uttam" height="30" width="40" /></a> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
-<a href="https://instagram.com/_.uttam_.22" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_.uttam_.22" height="30" width="40" /></a> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
-<a href="https://www.codechef.com/users/beginneruttam" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="beginneruttam" height="30" width="40" /></a> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
-<a href="https://www.hackerrank.com/@bajiraouttamsin1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@bajiraouttamsin1" height="30" width="40" /></a> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
-</p>
+<div align="left">
+  <a href="https://www.linkedin.com/in/uttam-kumar-511a411ba/"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+ <a href="https://twitter.com/uttamku74410059"><img alt=Twitter" src="https://img.shields.io/badge/Twitter-%230077B5.svg?style=for-the-badge&logo=Twitter&logoColor=#1DA1F2"/></a>
+  <a href="https://instagram.com/_.uttam_.22"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-e95950?style=for-the-badge&logo=Instagram&logoColor=white" /></a>
+  <a href="https://www.codechef.com/users/beginneruttam"><img alt="CodeChef" src="https://img.shields.io/badge/CodeChef-C4A484?style=for-the-badge&logo=CodeChef&logoColor=white" /></a>
+  <a href="https://www.hackerrank.com/@bajiraouttamsin1"><img alt="HackerRank" src="https://img.shields.io/badge/Hackerrank-008000?style=for-the-badge&logo=HackerRank&logoColor=white" /></a>
+ <a href=""https://stackoverflow.com/users/15806697"><img alt="Stackoverflow" src="https://img.shields.io/badge/stackoverflow-ef8236?style=for-the-badge&logo=stackoverflow&logoColor=white"/></a>
+</div>
 <br> 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
