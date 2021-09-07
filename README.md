@@ -15,7 +15,7 @@
 
 - 📫 How to reach me: **bajiraouttamsinha@gmail.com**
 
-- 📄 Check my resume [here](https://drive.google.com/file/d/1stl6ZH34CGurmiiuy7vJI73QR5AdhIEX/view?usp=sharing)
+- 📄 Check my resume [here](https://drive.google.com/file/d/1w_QKCPXyzF8_Fjxo6KFsvMUGxxInnNpb/view?usp=sharing)
 <br>
 <h3 align="left">Connect with me</h3>
 <div align="left">
