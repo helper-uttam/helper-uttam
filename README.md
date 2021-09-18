@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Tensorflow** and **DS/Algo**
 
-- 👨‍💻 All of my projects are available at [my portfolio](http://pubgofficial.me/myportfolio/)
+- 👨‍💻 All of my projects are available at [my portfolio](http://pubgofficial.me/portfolio/)
 
 - 💬 Ask me about **ReactJS, HTML, CSS, and NodeJS**
 
