@@ -7,17 +7,17 @@
 
 <p align="left"> <a href="https://twitter.com/uttamku74410059" target="blank"><img src="https://img.shields.io/twitter/follow/uttamku74410059?logo=twitter&style=for-the-badge" alt="uttamku74410059" /></a> </p>
 
-- 🌱 I’m currently learning **Tensorflow** and **DS/Algo**
+- 🌱 I’m currently learning **DS/Algo**
 
 - 👨‍💻 All of my projects are available at [my portfolio](http://pubgofficial.me/portfolio/)
 
 - 💬 Ask me about **ReactJS, HTML, CSS, and NodeJS**
 
-- 📫 How to reach me: **bajiraouttamsinha@gmail.com**
+- 📫 Reach me via email: **bajiraouttamsinha@gmail.com**
 
 - 📄 Check my resume [here](https://drive.google.com/file/d/1ypiFXEQv0Y-wXpvI6nZPEO-tiGkEB_bx/view?usp=sharing)
 <br>
-<h3 align="left">Connect with me</h3>
+<h3 align="left">Find me on Internet🌍🌏🌎</h3>
 <div align="left">
   <a href="https://www.linkedin.com/in/uttam-kumar-511a411ba/"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
  <a href="https://twitter.com/uttamku74410059"><img alt=Twitter" src="https://img.shields.io/badge/Twitter-%230077B5.svg?style=for-the-badge&logo=Twitter&logoColor=#1DA1F2"/></a>
