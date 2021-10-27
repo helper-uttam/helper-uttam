@@ -3,7 +3,8 @@
 <h1 align="center">Hi, I'm Uttam <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h1>
 <h3 align="center">A passionate developer from India</h3>
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=helper-uttam" alt="helper-uttam" /></a> </p>
+<img src="https://raw.githubusercontent.com/helper-uttam/helper-uttam/main/header_.png">
+
 
 <p align="left"> <a href="https://twitter.com/uttamku74410059" target="blank"><img src="https://img.shields.io/twitter/follow/uttamku74410059?logo=twitter&style=for-the-badge" alt="uttamku74410059" /></a> </p>
 
