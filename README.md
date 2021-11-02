@@ -8,7 +8,7 @@
 
 <p align="left"> <a href="https://twitter.com/uttamku74410059" target="blank"><img src="https://img.shields.io/twitter/follow/uttamku74410059?logo=twitter&style=for-the-badge" alt="uttamku74410059" /></a> </p>
 
-- 🌱 I’m currently learning **DS/Algo**
+- 🌱 I’m currently learning **DataStructures and Algorithms**
 
 - 👨‍💻 All of my projects are available at [my portfolio](http://pubgofficial.me/portfolio/)
 
