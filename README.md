@@ -16,7 +16,7 @@
 
 - 📫 Reach me via email: **bajiraouttamsinha@gmail.com**
 
-- 📄 Check my resume [here](https://drive.google.com/file/d/1ypiFXEQv0Y-wXpvI6nZPEO-tiGkEB_bx/view?usp=sharing)
+- 📄 Check my resume [here](https://github.com/helper-uttam/portfolio/blob/master/assests/Resume.pdf)
 <br>
 <h3 align="left">Find me on Internet🌍🌏🌎</h3>
 <div align="left">
