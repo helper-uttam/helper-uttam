@@ -61,9 +61,5 @@
 <p align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=helper-uttam&show_icons=true&theme=radical" />
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=helper-uttam&theme=radical" />
-
 </p>
   
-<br></br>
-[![Uttam's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=helper-uttam&theme=redical&hide_border=true)](https://git.io/helper-uttam)
-<br></br>
