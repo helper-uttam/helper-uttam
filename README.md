@@ -7,16 +7,24 @@
 
 
 <p align="left"> <a href="https://twitter.com/uttamku74410059" target="blank"><img src="https://img.shields.io/twitter/follow/uttamku74410059?logo=twitter&style=for-the-badge" alt="uttamku74410059" /></a> </p>
+<table>
+  <tr>
+    <td>- 🌱 I’m currently learning **DataStructures and Algorithms**</td>
+    <td> Check my recent published article about <a href="https://medium.com/@bajiraouttamsinha/lets-deploy-our-first-nodejs-application-on-kubernetes-874870270b5b">How to run a NodeJS application on Kubernetes.</a>
+  </tr>
+  <tr>
+    <td>- 👨‍💻 All of my projects are available at <a href="http://pubgofficial.me/portfolio/">my portfolio</a></td>
+    <td> Recently, I won <a href="https://devpost.com/software/just-speak-1k7m46?ref_content=user-portfolio&ref_feature=in_progress">Cloud-Native Hackathon</a></td>
+  </tr>
+  <tr>
+    <td>- 💬 Ask me about <strong>ReactJS, HTML, CSS, and NodeJS</strong></td>
+    <td>- 📄 Check my resume <a href="https://github.com/helper-uttam/portfolio/blob/master/assests/Resume.pdf">here</a></td>
+  </tr>
+</table>
 
-- 🌱 I’m currently learning **DataStructures and Algorithms**
 
-- 👨‍💻 All of my projects are available at [my portfolio](http://pubgofficial.me/portfolio/)
 
-- 💬 Ask me about **ReactJS, HTML, CSS, and NodeJS**
 
-- 📫 Reach me via email: **bajiraouttamsinha@gmail.com**
-
-- 📄 Check my resume [here](https://github.com/helper-uttam/portfolio/blob/master/assests/Resume.pdf)
 <br>
 <h3 align="left">Find me on Internet🌍🌏🌎</h3>
 <div align="left">
