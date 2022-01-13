@@ -27,7 +27,20 @@
     </td>- 📄 
   </tr>
 </table>
-
+<table>
+  <tr>
+    <td>
+      <h1> ⚡  Recent GitHub Activity </h1>
+      <!--RECENT_ACTIVITY:start-->
+      <!--RECENT_ACTIVITY:end-->
+    </td>
+    <td>
+      <h1> 📱 Recent Tweets </h1>
+      <!-- TWITTER:START -->
+      <!-- TWITTER:END -->
+    </td>
+  </tr>
+    
 
 
 
