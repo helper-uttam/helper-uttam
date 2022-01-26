@@ -21,10 +21,10 @@
     <td>- 📄 Check my resume <a href="https://github.com/helper-uttam/portfolio/blob/master/assests/Resume.pdf">here</a></td>
   </tr>
   <tr>
-    <td>- Gave Workshop on <strong>testing API's with POSTMAN</strong>
+    <td>- 📽️ Gave Workshop on <strong>testing API's with POSTMAN</strong>
       <br>
       Check it out from <A href="https://youtu.be/ywymOR6QZ74">here</a> [TIMESTAMP 22:00] 
-    </td>- 📄 
+    </td>
   </tr>
 </table>
 <br>
