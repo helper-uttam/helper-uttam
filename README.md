@@ -10,7 +10,7 @@
 <table>
   <tr>
     <td>- 🌱 I’m currently learning <strong>DataStructures and Algorithms</strong></td>
-    <td> Check my recent published article about <a href="https://medium.com/@bajiraouttamsinha/lets-deploy-our-first-nodejs-application-on-kubernetes-874870270b5b">How to run a NodeJS application on Kubernetes.</a>
+    <td> Check my recent published article about <a href="https://medium.com/@bajiraouttamsinha/how-to-containerize-a-mern-stack-application-1a69bd257e6f">How to containerize a MERN stack application.</a>
   </tr>
   <tr>
     <td>- 👨‍💻 All of my projects are available at <a href="http://pubgofficial.me/portfolio/">my portfolio</a></td>
