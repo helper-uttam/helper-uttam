@@ -10,11 +10,11 @@
 <table>
   <tr>
     <td>- 🌱 I’m currently learning <strong>DataStructures and Algorithms</strong></td>
-    <td> Check my recent published article about <a href="https://medium.com/@bajiraouttamsinha/how-to-containerize-a-mern-stack-application-1a69bd257e6f">How to containerize a MERN stack application.</a>
+    <td>- Check my recent published article about <a href="https://medium.com/@bajiraouttamsinha/how-to-containerize-a-mern-stack-application-1a69bd257e6f">How to containerize a MERN stack application.</a>
   </tr>
   <tr>
     <td>- 👨‍💻 All of my projects are available at <a href="http://pubgofficial.me/portfolio/">my portfolio</a></td>
-    <td> Recently, I won <a href="https://devpost.com/software/just-speak-1k7m46?ref_content=user-portfolio&ref_feature=in_progress">Cloud-Native Hackathon</a></td>
+    <td>- Recently, I won <a href="https://devpost.com/software/just-speak-1k7m46?ref_content=user-portfolio&ref_feature=in_progress">Cloud-Native Hackathon</a></td>
   </tr>
   <tr>
     <td>- 💬 Ask me about <strong>ReactJS, HTML, CSS, and NodeJS</strong></td>
