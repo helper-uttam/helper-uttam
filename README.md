@@ -1,8 +1,5 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=24&width=600&lines=Welcome+To+Uttam's+GitHub+Profile!)](https://git.io/typing-svg)
 
-<h1 align="center">Hi, I'm Uttam <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h1>
-<h3 align="center">A passionate developer from India</h3>
-
 <img src="https://raw.githubusercontent.com/helper-uttam/helper-uttam/main/header_.jpeg">
 
 
