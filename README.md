@@ -22,6 +22,8 @@
       <br>
       Check it out from <A href="https://youtu.be/ywymOR6QZ74">here</a> [TIMESTAMP 22:00] 
     </td>
+    <td>- 🤝 Join <a href="https://discord.gg/tRtwd8n8">LetsBuild Together(LBT) community </a> to collaborate, learn, and build things together.
+    </td>
   </tr>
 </table>
 <br>
