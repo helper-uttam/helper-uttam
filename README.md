@@ -10,7 +10,7 @@
     <td>- Check my recent published article about <a href="https://medium.com/@bajiraouttamsinha/how-to-containerize-a-mern-stack-application-1a69bd257e6f">How to containerize a MERN stack application.</a>
   </tr>
   <tr>
-    <td>- 👨‍💻 All of my projects are available at <a href="http://pubgofficial.me/portfolio/">my portfolio</a></td>
+    <td>- 👨‍💻 I’m currently working on <strong> <a href="https://mimic-os.vercel.app/">MimicOS</a></strong> project</td>
     <td>- Recently, I won <a href="https://devpost.com/software/just-speak-1k7m46?ref_content=user-portfolio&ref_feature=in_progress">Cloud-Native Hackathon</a></td>
   </tr>
   <tr>
