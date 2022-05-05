@@ -15,7 +15,7 @@
   </tr>
   <tr>
     <td>- 💬 Ask me about <strong>ReactJS, HTML, CSS, and NodeJS</strong></td>
-    <td>- 📄 Check my resume <a href="https://github.com/helper-uttam/portfolio/blob/master/assests/Resume.pdf">here</a></td>
+    <td>- 📄 Check my resume <a href="https://github.com/helper-uttam/portfolio/blob/master/assests/resume.pdf">here</a></td>
   </tr>
   <tr>
     <td>- 📽️ Gave Workshop on <strong>testing API's with POSTMAN</strong>
