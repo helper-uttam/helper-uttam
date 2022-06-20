@@ -7,7 +7,7 @@
 <table>
   <tr>
     <td>- 🌱 I’m currently learning <strong>DataStructures and Algorithms</strong></td>
-    <td>- Check my recent published article about <a href="https://medium.com/@bajiraouttamsinha/how-to-containerize-a-mern-stack-application-1a69bd257e6f">How to containerize a MERN stack application.</a>
+    <td>- Check my recent published article about <a href="https://medium.com/@bajiraouttamsinha/boosting-your-coding-efficiency-9bd571bb4ddd">Boosting your coding efficiency.</a>
   </tr>
   <tr>
     <td>- 👨‍💻 I’m currently working on <strong> <a href="https://mimic-os.vercel.app/">MimicOS</a></strong> project</td>
