@@ -35,7 +35,7 @@
 <br>
 <h3 align="left">Find me on Internet🌍🌏🌎</h3>
 <div align="left">
-  <a href="https://www.linkedin.com/in/uttam-kumar-511a411ba/"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://linkedin.com/in/uttam-kumar-dev"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
  <a href="https://twitter.com/uttamku74410059"><img alt=Twitter" src="https://img.shields.io/badge/Twitter-%230077B5.svg?style=for-the-badge&logo=Twitter&logoColor=#1DA1F2"/></a>
   <a href="https://www.instagram.com/_.uttam_.22/" target="_blank"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-e95950?style=for-the-badge&logo=Instagram&logoColor=white" /></a>
   <a href="https://leetcode.com/UttamKumar22/" target="_blank"> <img alt="Leetcode" src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=white" /></a>
