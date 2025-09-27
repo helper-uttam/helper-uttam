@@ -13,11 +13,11 @@
 <table>
   <tr>
     <td>- 🌱 I’m currently learning <strong>DataStructures and Algorithms</strong></td>
-    <td>- Check my recent published article about <a href="https://medium.com/@bajiraouttamsinha/boosting-your-coding-efficiency-9bd571bb4ddd">Boosting your coding efficiency.</a>
+    <td>- Check all of my published articles from <a href="https://medium.com/@bajiraouttamsinha">here.</a>
   </tr>
   <tr>
     <td>- 👨‍💻 I’m currently working on <strong> <a href="https://mimic-os.vercel.app/">MimicOS</a></strong> project</td>
-    <td>- Recently, I won <a href="https://devpost.com/software/just-speak-1k7m46?ref_content=user-portfolio&ref_feature=in_progress">Cloud-Native Hackathon</a></td>
+    <td>- Recently, I've been a runner up at <a href="https://unstop.com/hackathons/spark-wars-30-celebal-technologies-private-limited-1064149">Spark War 3.0</a></td>
   </tr>
   <tr>
     <td>- 💬 Ask me about <strong>ReactJS, HTML, CSS, and NodeJS</strong></td>
